@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of projects I've done, mostly in data science
+Simply click on the links to view the project :)
 
 ### Data Visualization
 * [Visualizing COVID-19 Cases in ASEAN Countries](http://htmlpreview.github.io/?https://rawcdn.githack.com/regohutagaol/Portfolio/2728c3e4fca86c6701acfe40a4d66dbaf733f6ec/Visualizing%20COVID19%20Cases%20in%20ASEAN%20Countries/covid19asean.html)  
