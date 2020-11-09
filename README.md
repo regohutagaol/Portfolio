@@ -6,7 +6,7 @@ Simply click on the links to view the project :)
   This is a simple project to show pandas usage to manipulate data to the desired format and visualize the result using python's bar_chart_race package.
 
 ### Machine Learning
-* [Predicting House Sale Prices Using RandomForestRegressor()](https://github.com/regohutagaol/Portfolio/blob/main/Predicting%20House%20Sale%20Prices%20using%20Machine%20Learning/house.ipynb)  
+* [Predicting House Sale Prices Using Random Forest](https://github.com/regohutagaol/Portfolio/blob/main/Predicting%20House%20Sale%20Prices%20using%20Machine%20Learning/house.ipynb)  
   A miniproject to show clever feature engineering and hyperparameter tuning to predict house sale prices using sklearn's Random Forest.
 
 ### Misc.
